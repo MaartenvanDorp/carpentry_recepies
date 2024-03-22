@@ -1,4 +1,11 @@
 Ingredients: cucumber, tomato, red onion, parsely, lemon juice and feta are also nice.
 Immediately eat the salad
 
+<<<<<<< HEAD
 please don't add coriander!! Totally agreed, this will be a strictly no coriander zone. 
+=======
+please don't add coriander!!
+coriander tastes like soap :(
+
+
+>>>>>>> 81085357acb336ae14d247c72f3570e4f5b78cd7
